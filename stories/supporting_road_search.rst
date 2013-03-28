@@ -1,0 +1,12 @@
+Aerial contribution to ground-based search of roads
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+One common mode of operation for SES in a wide area search is to travel along roads/tracks (as opposed to grid-searching). This is a high impact activity typically performed early in a search process. A UAV could act as a "force multiplier" that accelerate this process, so that a combination ground/UAV effort completes the task sooner.
+
+Scenario (without UAVs): A search team has been tasked with scanning the roads between point A and point B. The primary route may be up to 30km. They whole party travels along the primary route for a few Km, where they meet a junction. At the junction, the team splits and a rapid response team are sent to investigate a the side road while the main party travels more slowly along the primary route. The rapid response team travels up the side road, then backtracks to the main road and catches up with the main party. Meanwhile, the main party travels to the next junction and dispatches another rapid response team. The search continues in this fashion until the team arrives at point B, having searched the main route and side tracks.
+
+Scenario with a UAV: A medium sized UAV is deployed from an improvised runway (section of road) somewhere in the vicinity of point A. The UAV is deployed at the same time as the search party, and completes a preliminary search of the primary route within 15 minutes. By 20 minutes, the coordinators have identified numerous junctions/side roads along the primary route and issue updated information to the search team.
+
+During the next 40 minutes, the UAV travels another 80km on it's return journey. Perhaps 40km of this is spent effectively scanning identified side routes. Many of the side route investigations reveal tracks that are obscured by foliage, and will still require investigation by a ground team. However, some of the side routes are clear and searched effectively by the UAV. Each time a side route is effectively searched by the UAV, the coordinators issue a report to the to the search team informing them that it will not be necessary for them to visit that route during this phase of the search.
+
+Approximately 60 minutes after the UAV/search party have been deployed, the UAV lands. At the 70 minute mark it has been refuelled and relaunched, and goes on to effectively scan another 60km of side route in the next hour (travelling over 120km in the process). This is repeated as many times as necessary.
