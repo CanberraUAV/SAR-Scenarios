@@ -12,3 +12,10 @@ The reason for the project is to help technologists (primarily `CanberraUAV`_) c
 
    about
    stories
+
+This is a living document, edits (via `GitHub`_) are automatically built as web pages at `readthedocs`_, and also as a `PDF_format`_. The GitHub site also has an issue tracker and discussion features, which can be used to discuss issues and provide feedback. Contributions very welcome!
+
+.. _`github`: https://github.com/CanberraUAV/SAR-Scenarios/
+.. _`readthedocs`: https://sar-scenarios.readthedocs.org/
+.. _`PDF_format`: https://media.readthedocs.org/pdf/sar-scenarios/latest/sar-scenarios.pdf
+
