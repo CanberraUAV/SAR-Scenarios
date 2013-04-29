@@ -25,3 +25,17 @@ The finest grain of requirement are "scenarios". These represent a combination o
    :glob:
 
    stories/*
+
+use-case ideas
+--------------
+
+ * Training - we must be able to provide training to operators
+ * System evaluation - users must be able to evaluate tools before they can plan to incorporate them
+ * Component evaluation - developers should be able to work with [potential] users to evaluate performance of components (e.g. evaluate thermal camera with SES assistance)
+
+todo: new sections
+------------------
+ * hardware - airframes
+ * hardware - payloads
+
+Only then can we start developing simulations, assessing specific scenarios, etc.
