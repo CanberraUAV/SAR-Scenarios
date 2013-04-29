@@ -17,7 +17,7 @@ Activities of the short term plan are:
 
  * list and describe various relevant hypothetical stories
  * seek SAR community review/feedback
- * update scenarios, summarise feedback,
+ * update scenarios, summarise feedback
  * keep iterating as long as we keep getting valuable feedback
 
 When we have a well-validated (by SAR community) short list of scenarios that are compatible with CanberraUAV technical development goals (OBC 2014), change focus.
@@ -33,7 +33,7 @@ Long term plan
 
 The short term plan describes the first of four phases, which might be though of as *requirements discovery*. The subsequent phases are about delivering practical solutions to some of the key requirements.
 
-The second phase will be *requirements elaboration*. In this phase we will identify some stories that are well matched to CanberraUAV development goals, and seek more detailed information about them. For example identify variations/alternatives, operational/functional requirements, conduct risk and hazard analysis, etc.
+The second phase will be *requirements elaboration*. In this phase we will identify some stories that are well matched to CanberraUAV development goals, and seek more detailed information about them. For example identify variations/alternatives, operational/functional requirements, conduct risk and hazard analysis, etcetera.
 
 During the second phase, we may participate in table top exercises and workshops. Ongoing technology development will continue during all phases of this project (although it will increasingly be driven by the requirements documented here), however during the second phase we expect to be able to demonstrate progress against some of the requirements at this stage.
 
