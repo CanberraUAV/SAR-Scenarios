@@ -2,7 +2,7 @@
 import sys, os
 
 # -- General configuration -----------------------------------------------------
-extensions = ['sphinx.ext.todo', 'sphinxcontrib.spelling']
+extensions = ['sphinx.ext.todo', 'sphinxcontrib.spelling', 'sphinx.ext.graphviz']
 
 spelling_lang='en_AU'
 spelling_word_list_filename='OK_wordlist.txt'

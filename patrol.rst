@@ -8,3 +8,7 @@ Roads are rapidly searched during the early phase of a search. During later stag
 
    patrols/*
 
+Mission Profile ideas:
+
+ * RFS: check fire trails on day of fire, where to send the blokes with the chainsaws?
+ * Parks: periodic check of fire trails
