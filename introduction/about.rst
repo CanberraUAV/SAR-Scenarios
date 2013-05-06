@@ -12,9 +12,4 @@ We know we have been successful if:
  * the SAR community are motivated to contribute content to the user-stories
  * the SAR scenarios prove useful in helping us prioritise technology development efforts
 
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   about/*
 
