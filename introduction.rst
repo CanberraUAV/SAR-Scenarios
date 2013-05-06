@@ -5,4 +5,5 @@ Introduction
 
    introduction/about
    introduction/roadmap
+   introduction/stories.rst
 
